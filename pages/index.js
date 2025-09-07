@@ -141,6 +141,7 @@ export default function Home() {
             )}
           </div>
         )}
+          <div className="mt-3">
             <a
               href="https://whatsapp.com/channel/0029Vb6dhS29RZAV6wpMYj3W"
               target="_blank"
@@ -167,7 +168,6 @@ export default function Home() {
           <p className="mt-2 text-xs">Folow tiktok me @bakztajalah</p>
         </div>
       </div>
-    </div>
                 </>
                 );
 }
