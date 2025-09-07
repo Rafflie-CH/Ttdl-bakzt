@@ -62,8 +62,8 @@ export default function Home() {
   {/* Open Graph Meta Tags */}
   <meta property="og:title" content="Bakzt - Tiktok Downloader" />
   <meta property="og:description" content="Download video TikTok tanpa watermark secara gratis dan cepat dengan Bakzt Tiktok Downloader. 100% FREE!" />
-  <meta property="og:image" content="https://ttdl.bakzt.app/logo.png" />
-  <meta property="og:url" content="https://ttdl.bakzt.app" />
+  <meta property="og:image" content="https://ttdl-bakzt.vercel.app/logo.png" />
+  <meta property="og:url" content="https://ttdl-bakzt.vercel.app" />
   <meta property="og:type" content="website" />
 </Head>
     
@@ -71,7 +71,7 @@ export default function Home() {
       <div className="bg-white text-gray-900 rounded-2xl shadow-lg p-6 w-full max-w-lg">
         {/* Header */}
         <h1 className="text-center text-lg font-bold text-white bg-blue-600 rounded-lg py-2 mb-4">
-          TiKLoad BY BAKZT
+          TiKTok Downloader BY BAKZT
           <span className="block text-xs font-normal">Tiktok Downloader Tanpa Watermark dan 100% FREE!! dan yang pastinya TANPA IKLAN</span>
         </h1>
 
