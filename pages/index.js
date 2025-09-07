@@ -142,37 +142,6 @@ export default function Home() {
           </div>
         )}
 
-        {/* Footer */}
-        <div className="mt-6 text-center text-sm text-gray-500">
-          <p className="mb-2">Coba produk kami yang lain:</p>
-          <button
-            onClick={() => alert("Masih dalam pengembangan!")}
-            className="mx-1 text-blue-600 font-semibold"
-          >
-            GRAMLOAD
-          </button>
-          ·
-          <button
-            onClick={() => alert("Masih dalam pengembangan!")}
-            className="mx-1 text-blue-600 font-semibold"
-          >
-            BOOKLOAD
-          </button>
-          ·
-          <button
-            onClick={() => alert("Masih dalam pengembangan!")}
-            className="mx-1 text-blue-600 font-semibold"
-          >
-            THREADS DL
-          </button>
-          ·
-          <button
-            onClick={() => alert("Masih dalam pengembangan!")}
-            className="mx-1 text-blue-600 font-semibold"
-          >
-            X DL
-          </button>
-
           <div className="mt-3">
             <a
               href="https://whatsapp.com/channel/0029Vb6dhS29RZAV6wpMYj3W"
