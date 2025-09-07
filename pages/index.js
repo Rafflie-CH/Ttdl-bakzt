@@ -197,7 +197,7 @@ export default function Home() {
             </a>
           </div>
 
-          <p className="mt-2 text-xs">Folow tiktok me bakztajalah</p>
+          <p className="mt-2 text-xs">Folow tiktok me @bakztajalah</p>
         </div>
       </div>
     </div>
