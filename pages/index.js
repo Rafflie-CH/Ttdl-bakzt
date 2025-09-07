@@ -160,7 +160,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-blue-600 font-semibold"
             >
-              <img src="/rafz" alt="rafz" className="w-6 h-6" />
+              <img src="/rafz.png" alt="rafz" className="w-6 h-6" />
               rafz tikload (for Partner)
             </a>
           </div>
